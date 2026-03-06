@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">codevisualizerapp</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_system">System Default</string>
+</resources>
