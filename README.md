@@ -35,8 +35,6 @@ Add a GIF recording of your project running. Example README syntax:
 
 ![VisuCode Demo](images/demo.gif)
 
-You can create the GIF using tools like ScreenToGif or OBS.
-Better README Layout Example
 # VisuCode – Python Code Visualizer
 
 ## Features
