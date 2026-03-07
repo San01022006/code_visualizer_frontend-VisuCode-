@@ -42,10 +42,32 @@ Add a GIF recording of your project running. Example README syntax:
 - Variable visualization
 - Beginner friendly learning tool
 
-## Screenshots
+## VisuCode – Project Screenshots 
+
+1. Application Launch & Home Screen
+When the application is launched, the VisuCode icon appears on the device home screen. Opening the application takes the user to the Home Page where previously saved Python files are displayed. This page acts as the main dashboard of the application, allowing users to quickly access saved programs or create new ones.
+
 ![Home](images/home.png)
+
+2. Code Input & Execution Interface
+This screen allows users to write or upload Python code and execute it. The interface includes controls such as Run, Previous, and Next buttons that allow step‑by‑step navigation through the program execution. This makes it easier for beginners to understand how the code is processed.
+
 ![Execution](images/execution.png)
 
+3. Step‑by‑Step Code Visualization
+The core functionality of VisuCode is the visualization of Python code execution. Each step of the program execution is displayed along with the corresponding variable states. This helps users observe how variables change during execution and understand the logic of the program.
+
+![steps](images/steps.png)
+
+4. Saved Files Management
+VisuCode allows users to save their Python scripts for future use. The saved files screen displays previously stored programs and provides a search option to easily locate files. This helps users organize their work and review programs later.
+
+![SavedFiles](images/SavedFiles.png)
+
+5. Settings Panel
+The settings panel allows users to customize the application interface. Users can switch between light mode, dark mode, or system theme. Additionally, the editor font size can be adjusted to improve readability and user comfort.
+
+![settingPannel](images/settingPannel.png)
 ## Architecture
 Frontend → Backend → Execution Engine → Visualization
 
