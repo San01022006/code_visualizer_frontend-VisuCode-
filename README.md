@@ -12,7 +12,7 @@ VisuCode is a web‑based Python Code Visualizer that helps users understand how
 Project Architecture Diagram
 Frontend (React / HTML / CSS)
         |
-        |  Sends Python Code
+        |  SEND PYTHON CODE
         v
 Backend API (Flask / FastAPI)
         |
