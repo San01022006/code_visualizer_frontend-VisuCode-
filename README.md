@@ -14,7 +14,7 @@ Frontend (React / HTML / CSS)
         |
         |  SEND PYTHON CODE
         v
-Backend API (Flask / FastAPI)
+Backend API (FLASK / FastAPI)
         |
         |  Executes Code + Tracks Variables
         v
